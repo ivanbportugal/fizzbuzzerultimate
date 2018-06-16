@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzerUltimate", "FizzBuzzerUltimate\FizzBuzzerUltimate.csproj", "{71326FBD-2546-4D95-9AE8-9076DA100ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzerLib", "FizzBuzzerLib\FizzBuzzerLib.csproj", "{7DE5530B-20A4-4A1D-BDDA-3E8452F3CBD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzerLibTest", "FizzBuzzerLibTest\FizzBuzzerLibTest.csproj", "{0B5C4FDC-8E87-41BD-82F4-2E3133449541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71326FBD-2546-4D95-9AE8-9076DA100ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71326FBD-2546-4D95-9AE8-9076DA100ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71326FBD-2546-4D95-9AE8-9076DA100ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71326FBD-2546-4D95-9AE8-9076DA100ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE5530B-20A4-4A1D-BDDA-3E8452F3CBD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE5530B-20A4-4A1D-BDDA-3E8452F3CBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE5530B-20A4-4A1D-BDDA-3E8452F3CBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE5530B-20A4-4A1D-BDDA-3E8452F3CBD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B5C4FDC-8E87-41BD-82F4-2E3133449541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5C4FDC-8E87-41BD-82F4-2E3133449541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5C4FDC-8E87-41BD-82F4-2E3133449541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5C4FDC-8E87-41BD-82F4-2E3133449541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
